@@ -1,0 +1,9 @@
+A = int(input("Enter the 1st day temp: "))
+B = int(input("Enter the 2st day temp: "))
+C = int(input("Enter the 3st day temp: "))
+D = int(input("Enter the 4st day temp: "))
+E = int(input("Enter the 5st day temp: "))
+F = int(input("Enter the 6st day temp: "))
+G = int(input("Enter the 7st day temp: "))
+Average = (A + B + C + D + E + F + G) / 7
+print("Average of themperature of the week = ",Average,"C")
